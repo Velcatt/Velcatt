@@ -59,7 +59,7 @@ I'm currently looking for a company to host my work-study program, which starts 
   <a href="https://discord.com/users/196204798159093761" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="antoinelacroix68@gmail.com" target="_blank">
+  <a href="mailto:antoinelacroix68@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/antoine-lacroix-976bab1b8/" target="_blank">
