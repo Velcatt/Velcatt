@@ -18,7 +18,6 @@ I'm currently looking for a company to host my work-study program, which starts 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="animated" />
 </p>
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Velcatt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
