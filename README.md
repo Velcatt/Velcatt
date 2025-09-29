@@ -16,7 +16,11 @@ I'm currently looking for a company to host my work-study program, which starts 
 
 ###
 
-![](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
+<p align="center">
+
+    <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Night coding">
+
+</p>
 
 ###
 
