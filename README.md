@@ -8,7 +8,7 @@ Later I followed a 2 years cursus at IUT2 at Grenoble, France and got a DUT in c
 I really like music, I have done a soundtrack for Realcast (a french VR game studio) and I play piano and drums. I also enjoy video games and role-playing games.
 <br>
 <br>
-I'm currently looking for a company to host my work-study program, which starts in January 2026. If my profile interests you, you can learn more about me on my <a href="https://www.antoinelacroix.dev/">self-hosted digital resume</a>
+I'm currently looking for a company to host my work-study program, which starts in January 2026. If my profile interests you, you can learn more about me on my <a href="https://www.antoinelacroix.dev/">self-hosted digital resume</a>.
 </h4>
 
 ###
