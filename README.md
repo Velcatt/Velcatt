@@ -27,7 +27,7 @@ I'm currently looking for a company to host my work-study program, which starts 
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/UrpD47g.png" />
+<img align="right" height="150" src="https://i.imgur.com/BqJjboi.png" />
 
 ###
 
