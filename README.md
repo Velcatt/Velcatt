@@ -1,10 +1,14 @@
 <h2 align="left">Hi 👋! My name is Antoine Lacroix and I'm a Developer, from France</h2>
-
+<br>
+<br>
 <h4 align="left">Passionated with coding for more than 10 years, I started when I was 14, coding games on my calculator on my free time. Later, I was able to join a computer science class in high school where I was able to start learning Python. Then I passed my Scientific Baccalauréat, getting a very good mention.
+<br>
 <br>
 Later I followed a 2 years cursus at IUT2 at Grenoble, France and got a DUT in computer science. I quickly discovered that it was almost impossible to get a developper job with only 2 years of post-baccalauréat, and after 3 years of being a helpdesk technician I decided to go back to school, at Epitech Montpellier in Pre-MSc.
 <br>
+<br>
 I really like music, I have done a soundtrack for Realcast (a french VR game studio) and I play piano and drums. I also enjoy video games and role-playing games.
+<br>
 <br>
 I'm currently looking for a company to host my work-study program, which starts in January 2026. If my profile interests you, you can learn more about me on my <a href="https://www.antoinelacroix.dev/">self-hosted digital resume</a>
 </h4>
