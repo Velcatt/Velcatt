@@ -1,6 +1,4 @@
 <h2 align="left">Hi 👋! My name is Antoine Lacroix and I'm a Developer, from France</h2>
-<br>
-<br>
 <h4 align="left">Passionated with coding for more than 10 years, I started when I was 14, coding games on my calculator on my free time. Later, I was able to join a computer science class in high school where I was able to start learning Python. Then I passed my Scientific Baccalauréat, getting a very good mention.
 <br>
 <br>
